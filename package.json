@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "description": "My ESLint config",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "lint": "eslint .; exit 0"
+  },
   "repository": "timkurvers/eslint-config",
   "author": "Tim Kurvers <tim@moonsphere.net>",
   "license": "MIT",
