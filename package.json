@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-timkurvers",
+  "version": "0.1.0",
+  "description": "My ESLint config",
+  "main": "index.js",
+  "scripts": {},
+  "repository": "timkurvers/eslint-config",
+  "author": "Tim Kurvers <tim@moonsphere.net>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb": "0.0.8",
+    "merge": "^1.2.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^4.1.1",
+    "eslint": "^1.3.1"
+  }
+}
