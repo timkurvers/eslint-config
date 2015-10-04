@@ -12,7 +12,7 @@ Licensed under the **MIT** license, see LICENSE for more information.
 Available via [npm](https://www.npmjs.com):
 
 ```shell
-npm install --save-dev eslint-config-timkurvers babel-eslint
+npm install --save-dev eslint-config-timkurvers eslint-config-airbnb babel-eslint
 ```
 
 Tweak `.eslintrc`:
