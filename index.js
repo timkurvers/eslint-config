@@ -7,6 +7,9 @@ module.exports = {
     // Allow anonymous functions
     'func-names': [0],
 
+    // Allow short identifiers
+    'id-length': [0],
+
     // Enforce curly spacing in object literals and destructuring
     'object-curly-spacing': [2, 'always'],
 
