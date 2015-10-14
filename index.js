@@ -8,6 +8,9 @@ module.exports = {
     'func-names': [0],
 
     // Enforce curly spacing in object literals and destructuring
-    'object-curly-spacing': [2, 'always']
+    'object-curly-spacing': [2, 'always'],
+
+    // Allow padded blocks
+    'padded-blocks': [0]
   }
 };
