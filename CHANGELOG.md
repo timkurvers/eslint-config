@@ -1,5 +1,11 @@
 # Changelog
 
+### v0.1.3 - October 14, 2015
+
+- Allow padded blocks.
+- Allow short identifiers.
+
+
 ### v0.1.2 - October 4, 2015
 
 - Enforce curly spacing in object literals and destructuring.
