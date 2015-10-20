@@ -6,7 +6,6 @@ My ESLint configuration, based on [Airbnb's](https://github.com/airbnb/javascrip
 
 Licensed under the **MIT** license, see LICENSE for more information.
 
-
 ## Usage
 
 Available via [npm](https://www.npmjs.com):
