@@ -11,7 +11,15 @@ Licensed under the **MIT** license, see LICENSE for more information.
 Available via [npm](https://www.npmjs.com):
 
 ```shell
-npm install --save-dev eslint-config-timkurvers eslint-config-airbnb babel-eslint
+npm install --save-dev eslint-config-timkurvers eslint-config-airbnb
+```
+
+### ES6
+
+Additional dependencies to install:
+
+```shell
+npm install --save-dev babel-eslint
 ```
 
 Tweak `.eslintrc`:
@@ -19,5 +27,21 @@ Tweak `.eslintrc`:
 ```json
 {
   "extends": "timkurvers"
+}
+```
+
+### React
+
+Additional dependencies to install:
+
+```shell
+npm install --save-dev babel-eslint eslint-plugin-react
+```
+
+Tweak `.eslintrc`:
+
+```json
+{
+  "extends": "timkurvers/react"
 }
 ```
