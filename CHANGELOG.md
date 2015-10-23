@@ -1,5 +1,9 @@
 # Changelog
 
+### v0.2.0 - October 23, 2015
+
+- Add React support.
+
 ### v0.1.3 - October 14, 2015
 
 - Allow padded blocks.
