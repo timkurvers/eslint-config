@@ -1,5 +1,9 @@
 # Changelog
 
+### v0.2.1 - November 6, 2015
+
+- Enforce indentation of switch/case statements.
+
 ### v0.2.0 - October 23, 2015
 
 - Add React support.
