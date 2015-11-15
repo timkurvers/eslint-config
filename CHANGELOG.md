@@ -1,5 +1,9 @@
 # Changelog
 
+### v0.2.2 - November 15, 2015
+
+- Use `babel-eslint` parser explicitly.
+
 ### v0.2.1 - November 6, 2015
 
 - Enforce indentation of switch/case statements.
