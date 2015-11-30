@@ -1,5 +1,10 @@
 # Changelog
 
+### v0.2.3 - November 30, 2015
+
+- Enforce using all argument.
+- Allow ignoring arguments with underscore prefix.
+
 ### v0.2.2 - November 15, 2015
 
 - Use `babel-eslint` parser explicitly.
