@@ -1,5 +1,10 @@
 # Changelog
 
+### v1.0.0 - November 14, 2016
+
+- Latest `eslint` and `eslint-config-airbnb` packages.
+- Only publish package files.
+
 ### v0.2.3 - November 30, 2015
 
 - Enforce using all arguments.
