@@ -2,7 +2,7 @@
 
 ### v0.2.3 - November 30, 2015
 
-- Enforce using all argument.
+- Enforce using all arguments.
 - Allow ignoring arguments with underscore prefix.
 
 ### v0.2.2 - November 15, 2015
