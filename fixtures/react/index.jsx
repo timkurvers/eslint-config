@@ -1,8 +1,12 @@
+/* eslint-disable import/no-extraneous-dependencies */
+
 import React from 'react';
 
 class Configuration extends React.Component {
 
   constructor() {
+    super();
+
     this.state = { enabled: true };
   }
 
