@@ -12,7 +12,7 @@
     "react.js"
   ],
   "scripts": {
-    "lint": "eslint .; exit 0"
+    "lint": "eslint . fixtures --ext js,jsx"
   },
   "repository": "timkurvers/eslint-config",
   "author": "Tim Kurvers <tim@moonsphere.net>",
