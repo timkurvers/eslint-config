@@ -3,6 +3,14 @@
   "version": "0.2.3",
   "description": "My ESLint config",
   "main": "index.js",
+  "files": [
+    "CHANGELOG.md",
+    "LICENSE.md",
+    "README.md",
+    "base.js",
+    "index.js",
+    "react.js"
+  ],
   "scripts": {
     "lint": "eslint .; exit 0"
   },
