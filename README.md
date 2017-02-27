@@ -11,7 +11,7 @@ Licensed under the **MIT** license, see LICENSE for more information.
 Available via [npm](https://www.npmjs.com):
 
 ```shell
-npm install --save-dev eslint eslint-config-timkurvers eslint-config-airbnb
+npm install --save-dev eslint eslint-config-timkurvers eslint-config-airbnb@^14.1.0
 ```
 
 ### ES6
@@ -19,7 +19,7 @@ npm install --save-dev eslint eslint-config-timkurvers eslint-config-airbnb
 Additional dependencies to install:
 
 ```shell
-npm install --save-dev babel-eslint eslint-plugin-import
+npm install --save-dev babel-eslint@^7.1.1 eslint-plugin-import@^2.2.0
 ```
 
 Tweak `.eslintrc`:
@@ -35,7 +35,7 @@ Tweak `.eslintrc`:
 Additional dependencies to install:
 
 ```shell
-npm install --save-dev babel-eslint eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y@^2.2.3
+npm install --save-dev babel-eslint@^7.1.1 eslint-plugin-import@^2.2.0 eslint-plugin-react@^6.9.0 eslint-plugin-jsx-a11y@^4.0.0
 ```
 
 Tweak `.eslintrc`:
