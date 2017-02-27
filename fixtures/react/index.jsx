@@ -2,7 +2,11 @@
 
 import React from 'react';
 
-class Configuration extends React.Component {
+class Button extends React.Component {
+
+  static propTypes = {
+    label: React.PropTypes.string.isRequired,
+  };
 
   constructor() {
     super();
@@ -12,12 +16,12 @@ class Configuration extends React.Component {
 
   render() {
     return (
-      <config>
-        { this.state.enabled }
-      </config>
+      <button disabled={!this.state.enabled}>
+        { this.props.label }
+      </button>
     );
   }
 
 }
 
-export default Configuration;
+export default Button;
