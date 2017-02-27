@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-timkurvers",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "My ESLint config",
   "main": "index.js",
   "files": [

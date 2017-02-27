@@ -1,5 +1,12 @@
 # Changelog
 
+### v1.1.0 - February 27, 2017
+
+- Require commas for multi-line literals.
+- Warn for anonymous functions.
+- Do not allow padded blocks.
+- Latest `eslint` and `eslint-config-airbnb` packages.
+
 ### v1.0.0 - November 14, 2016
 
 - Latest `eslint` and `eslint-config-airbnb` packages.
