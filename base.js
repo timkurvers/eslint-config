@@ -1,9 +1,6 @@
 module.exports = {
   parser: 'babel-eslint',
   rules: {
-    // Allow anonymous functions
-    'func-names': [0],
-
     // Allow short identifiers
     'id-length': [0],
 
