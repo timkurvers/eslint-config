@@ -1,9 +1,6 @@
 module.exports = {
   parser: 'babel-eslint',
   rules: {
-    // Disallow dangling commas
-    'comma-dangle': [2, 'never'],
-
     // Allow anonymous functions
     'func-names': [0],
 
