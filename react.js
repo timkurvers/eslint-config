@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
     'airbnb',
-    'timkurvers',
+    './index.js',
   ],
 };
