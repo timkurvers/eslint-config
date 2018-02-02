@@ -4,7 +4,7 @@
 
 My ESLint configuration, based on [Airbnb's](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb).
 
-Licensed under the **MIT** license, see LICENSE for more information.
+Licensed under the [**MIT** license](LICENSE.md).
 
 ## Usage
 
