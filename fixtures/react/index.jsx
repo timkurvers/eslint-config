@@ -1,13 +1,9 @@
 /* eslint-disable import/no-extraneous-dependencies */
 
+import PropTypes from 'prop-types';
 import React from 'react';
 
 class Button extends React.Component {
-
-  static propTypes = {
-    label: React.PropTypes.string.isRequired,
-  };
-
   constructor() {
     super();
 
@@ -15,13 +11,18 @@ class Button extends React.Component {
   }
 
   render() {
+    const { label } = this.props;
+    const { enabled } = this.state;
     return (
-      <button disabled={!this.state.enabled}>
-        { this.props.label }
+      <button disabled={!enabled} type="button">
+        {label}
       </button>
     );
   }
-
 }
+
+Button.propTypes = {
+  label: PropTypes.string.isRequired,
+};
 
 export default Button;
