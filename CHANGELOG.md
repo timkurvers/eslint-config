@@ -1,5 +1,10 @@
 # Changelog
 
+### v2.0.0 - March 10, 2020
+
+- Available as `@timkurvers/eslint-config` on npm.
+- Latest `eslint` and `eslint-config-airbnb` packages.
+
 ### v1.1.0 - February 27, 2017
 
 - Require commas for multi-line literals.

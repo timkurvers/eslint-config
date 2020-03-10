@@ -1,6 +1,6 @@
 {
   "name": "@timkurvers/eslint-config",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "My ESLint config",
   "author": "Tim Kurvers <tim@moonsphere.net>",
   "repository": "timkurvers/eslint-config",
