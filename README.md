@@ -1,11 +1,10 @@
 # eslint-config
 
-[![Version](https://img.shields.io/npm/v/eslint-config-timkurvers.svg)](https://www.npmjs.org/package/eslint-config-timkurvers)
+[![Version](https://badgen.net/npm/v/@timkurvers/eslint-config)](https://www.npmjs.org/package/@timkurvers/eslint-config)
 [![Known Vulnerabilities](https://snyk.io/test/github/timkurvers/eslint-config/badge.svg)](https://snyk.io/test/github/timkurvers/eslint-config)
+[![MIT License](https://badgen.net/github/license/timkurvers/eslint-config)](LICENSE.md)
 
 My ESLint configuration, based on [Airbnb's](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb).
-
-Licensed under the [**MIT** license](LICENSE.md).
 
 ## Usage
 
