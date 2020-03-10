@@ -1,4 +1,4 @@
-# eslint-config-timkurvers
+# eslint-config
 
 [![Version](https://img.shields.io/npm/v/eslint-config-timkurvers.svg)](https://www.npmjs.org/package/eslint-config-timkurvers)
 [![Known Vulnerabilities](https://snyk.io/test/github/timkurvers/eslint-config/badge.svg)](https://snyk.io/test/github/timkurvers/eslint-config)
@@ -12,7 +12,7 @@ Licensed under the [**MIT** license](LICENSE.md).
 Available via [npm](https://www.npmjs.com):
 
 ```shell
-npm install --save-dev eslint eslint-config-timkurvers eslint-config-airbnb@^14.1.0
+npm install --save-dev eslint @timkurvers/eslint-config eslint-config-airbnb
 ```
 
 ### ES6
@@ -20,14 +20,14 @@ npm install --save-dev eslint eslint-config-timkurvers eslint-config-airbnb@^14.
 Additional dependencies to install:
 
 ```shell
-npm install --save-dev babel-eslint@^7.1.1 eslint-plugin-import@^2.2.0
+npm install --save-dev babel-eslint eslint-plugin-import
 ```
 
 Tweak `.eslintrc`:
 
 ```json
 {
-  "extends": "timkurvers"
+  "extends": "@timkurvers"
 }
 ```
 
@@ -36,13 +36,13 @@ Tweak `.eslintrc`:
 Additional dependencies to install:
 
 ```shell
-npm install --save-dev babel-eslint@^7.1.1 eslint-plugin-import@^2.2.0 eslint-plugin-react@^6.9.0 eslint-plugin-jsx-a11y@^4.0.0
+npm install --save-dev babel-eslint eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y
 ```
 
 Tweak `.eslintrc`:
 
 ```json
 {
-  "extends": "timkurvers/react"
+  "extends": "@timkurvers/eslint-config/react"
 }
 ```
