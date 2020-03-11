@@ -11,15 +11,13 @@ My ESLint configuration, based on [Airbnb's](https://github.com/airbnb/javascrip
 Available via [npm](https://www.npmjs.com):
 
 ```shell
-npm install --save-dev eslint @timkurvers/eslint-config eslint-config-airbnb
+npm install --save-dev @timkurvers/eslint-config
 ```
-
-### ES6
 
 Additional dependencies to install:
 
 ```shell
-npm install --save-dev babel-eslint eslint-plugin-import
+npm install --save-dev eslint babel-eslint eslint-plugin-import eslint-config-airbnb
 ```
 
 Tweak `.eslintrc`:
