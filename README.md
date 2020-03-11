@@ -2,7 +2,7 @@
 
 [![Version](https://badgen.net/npm/v/@timkurvers/eslint-config)](https://www.npmjs.org/package/@timkurvers/eslint-config)
 [![MIT License](https://badgen.net/github/license/timkurvers/eslint-config)](LICENSE.md)
-![Status](https://badgen.net/github/status/timkurvers/eslint-config)
+![Checks](https://badgen.net/github/checks/timkurvers/eslint-config)
 
 My ESLint configuration, based on [Airbnb's](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb).
 
@@ -11,15 +11,13 @@ My ESLint configuration, based on [Airbnb's](https://github.com/airbnb/javascrip
 Available via [npm](https://www.npmjs.com):
 
 ```shell
-npm install --save-dev eslint @timkurvers/eslint-config eslint-config-airbnb
+npm install --save-dev @timkurvers/eslint-config
 ```
-
-### ES6
 
 Additional dependencies to install:
 
 ```shell
-npm install --save-dev babel-eslint eslint-plugin-import
+npm install --save-dev eslint babel-eslint eslint-plugin-import eslint-config-airbnb
 ```
 
 Tweak `.eslintrc`:
