@@ -2,6 +2,7 @@
 
 [![Version](https://badgen.net/npm/v/@timkurvers/eslint-config)](https://www.npmjs.org/package/@timkurvers/eslint-config)
 [![MIT License](https://badgen.net/github/license/timkurvers/eslint-config)](LICENSE.md)
+![Status](https://badgen.net/github/status/timkurvers/eslint-config)
 
 My ESLint configuration, based on [Airbnb's](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb).
 
