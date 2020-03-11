@@ -14,7 +14,7 @@ Available via [npm](https://www.npmjs.com):
 npm install --save-dev @timkurvers/eslint-config
 ```
 
-Additional dependencies to install:
+Dependencies to install:
 
 ```shell
 npm install --save-dev eslint babel-eslint eslint-plugin-import eslint-config-airbnb
@@ -33,7 +33,7 @@ Tweak `.eslintrc`:
 Additional dependencies to install:
 
 ```shell
-npm install --save-dev babel-eslint eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y
+npm install --save-dev eslint-plugin-react eslint-plugin-jsx-a11y
 ```
 
 Tweak `.eslintrc`:
