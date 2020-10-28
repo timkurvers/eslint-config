@@ -1,5 +1,9 @@
 # Changelog
 
+### v2.1.0 - October 28, 2020
+
+- Drop `babel-eslint` parser.
+
 ### v2.0.0 - March 10, 2020
 
 - Available as `@timkurvers/eslint-config` on npm.
