@@ -1,5 +1,4 @@
 module.exports = {
-  parser: 'babel-eslint',
   rules: {
     // Enforce using all arguments
     // Allow ignoring arguments with underscore prefix

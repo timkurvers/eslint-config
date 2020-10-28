@@ -17,7 +17,7 @@ npm install --save-dev @timkurvers/eslint-config
 Dependencies to install:
 
 ```shell
-npm install --save-dev eslint babel-eslint eslint-plugin-import eslint-config-airbnb
+npm install --save-dev eslint eslint-plugin-import eslint-config-airbnb
 ```
 
 Tweak `.eslintrc`:
