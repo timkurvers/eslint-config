@@ -1,5 +1,12 @@
 # Changelog
 
+### v3.0.0 - November 30, 2022
+
+- Latest `eslint` and `eslint-config-airbnb` packages.
+- Remove `package-lock.json`.
+- Treat `eslint-config-airbnb` as runtime dependency.
+- Test against Node 16 and 18, drop support for Node 10 and 12.
+
 ### v2.1.0 - October 28, 2020
 
 - Drop `babel-eslint` parser.
